@@ -19,6 +19,7 @@ class bsr_File_Backup {
             WP_CONTENT_DIR . '/uploads', // Media files
             WP_CONTENT_DIR . '/themes',  // Themes
             WP_CONTENT_DIR . '/plugins', // Plugins
+            // WP_CONTENT_DIR . '/posts', // Plugins
         ];
 
         // Create a zip archive
